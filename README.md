@@ -3,6 +3,7 @@ Repo containing different Machine Learning Projects that I have made.
 
 > Note that this repo is dedicated for normal Machine Learning Projects and not deep learning projects, for Deep Learning Projects, please find: 
 * [**Image-Classification-Projects**](https://github.com/Sayed-Husain/Image-Classification-Projects) For Computer Vision and Image classification projects
+* [**Natural-language-processing-Projects**](https://github.com/Sayed-Husain/Natural-Language-Processing-Projects) For Natural language processing (NLP) projects
 
 
 ## Heart Disease Detection
